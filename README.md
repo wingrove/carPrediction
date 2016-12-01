@@ -1,6 +1,6 @@
-# vehicleWekaPredict
+# vehicle Weka Predict
 
-vehicle Weka Predict
+vehicle Weka  Predict
 
 
 
